@@ -2,6 +2,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<h2>success! hello,tomcat,这是一次新的push!</h2>
+<h2>success! hello,tomcat,这是通过ssh 的远程部署!</h2>
 </body>
 </html>
