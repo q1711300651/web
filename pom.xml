@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>com.mjc</finalName>
+    <finalName>web</finalName>
   </build>
 </project>
